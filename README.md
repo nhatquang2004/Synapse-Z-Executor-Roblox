@@ -14,6 +14,7 @@ To get started with Synapse Z Executor, follow these simple steps:
 
 
 
+
 ![Synapse Z Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
